@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cd6209-450c-4bdd-b950-eb956a45ed34" name="Changes" comment="" />
+    <list default="true" id="a4cd6209-450c-4bdd-b950-eb956a45ed34" name="Changes" comment="Today's Update 03/12/2022">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/demo/testsuite/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/demo/testsuite/LoginPageTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2IPFRCd4uQtciMls01yQRaSz02Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,13 +51,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/testdata",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.LoginPageTest">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources\testdata" />
+      <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources" />
+      <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources\propertiesfile" />
+      <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\main\java\com\nopcommerce\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully">
     <configuration name="PropertyReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.propertyreader.PropertyReader" />
       <module name="sample-maven-project" />
@@ -104,10 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully" />
         <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="Application.PropertyReader" />
         <item itemvalue="TestNG.LoginPageTest.verifyErrorMessageWithInvalidCredentials" />
-        <item itemvalue="TestNG.LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +151,29 @@
       <option name="presentableId" value="Default" />
       <updated>1670075316741</updated>
     </task>
+    <task id="LOCAL-00001" summary="Today's Update 03/12/2022">
+      <created>1670090775029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670090775029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Today's Update 03/12/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's Update 03/12/2022" />
   </component>
 </project>
