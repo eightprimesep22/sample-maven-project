@@ -4,17 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cd6209-450c-4bdd-b950-eb956a45ed34" name="Changes" comment="Today's Update 03/12/2022">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/excelutility/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/excelutility/ExcelUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="a4cd6209-450c-4bdd-b950-eb956a45ed34" name="Changes" comment="Code added&#10;Excel Utility, Excel Files, Log4j2 files, Pom.xml Dependency,Runner files">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/customlisteners/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/RetryAnalyser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testng/TestNGSoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginPageTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginPageTestWithParameterAndParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/parameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/testngdemo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/demo/testsuite/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/demo/testsuite/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/browserfactory/ManageBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/browserfactory/ManageBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/browserfactory/ManageBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/resources/testdata/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/resources/testdata/TestData.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +66,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2IPFRCd4uQtciMls01yQRaSz02Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +77,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/testdata",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -60,36 +87,105 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources\runners" />
       <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources\testdata" />
       <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources" />
       <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\test\java\resources\propertiesfile" />
       <recent name="C:\Users\jayen\PrimeTesting\PrimeBatch_8\sample-maven-project\src\main\java\com\nopcommerce\demo" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce.demo.testsuite" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully">
-    <configuration name="PropertyReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.propertyreader.PropertyReader" />
+  <component name="RunManager" selected="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/reportng.xml">
+    <configuration name="C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/reportng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sample-maven-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nopcommerce.demo.propertyreader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/reportng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/testngdemo.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sample-maven-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/testngdemo.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTestWithDataProvider.doLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
-      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginPageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginPageTestWithDataProvider" />
+      <option name="METHOD_NAME" value="doLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGRetryFailedDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testng.TestNGRetryFailedDemo" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -97,48 +193,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest.verifyErrorMessageWithInvalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sample-maven-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
-      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginPageTest" />
-      <option name="METHOD_NAME" value="verifyErrorMessageWithInvalidCredentials" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sample-maven-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
-      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginPageTest" />
-      <option name="METHOD_NAME" value="verifyUserShouldNavigateToLoginPageSuccessfully" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/reportng.xml" />
+      <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG.LoginPageTestWithDataProvider.doLogin" />
+      <item itemvalue="TestNG.TestNGRetryFailedDemo" />
+      <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/testngdemo.xml" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginPageTest.verifyUserShouldNavigateToLoginPageSuccessfully" />
-        <item itemvalue="TestNG.LoginPageTest" />
-        <item itemvalue="Application.PropertyReader" />
-        <item itemvalue="TestNG.LoginPageTest.verifyErrorMessageWithInvalidCredentials" />
+        <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/reportng.xml" />
+        <item itemvalue="TestNG.LoginPageTestWithDataProvider.doLogin" />
+        <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/test-output/testng-failed.xml" />
+        <item itemvalue="TestNG.C:/Users/jayen/PrimeTesting/PrimeBatch_8/sample-maven-project/src/test/java/resources/runners/testngdemo.xml" />
+        <item itemvalue="TestNG.TestNGRetryFailedDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670090775029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code added&#10;Excel Utility, Excel Files, Log4j2 files, Pom.xml Dependency,Runner files">
+      <created>1670593661688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670593661688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Today's Update 03/12/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today's Update 03/12/2022" />
+    <MESSAGE value="Code added&#10;Excel Utility, Excel Files, Log4j2 files, Pom.xml Dependency,Runner files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code added&#10;Excel Utility, Excel Files, Log4j2 files, Pom.xml Dependency,Runner files" />
   </component>
 </project>
