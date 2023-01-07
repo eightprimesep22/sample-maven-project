@@ -1,7 +1,6 @@
 package com.nopcommerce.demo.browserfactory;
 
 import com.nopcommerce.demo.propertyreader.PropertyReader;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -19,13 +18,13 @@ public class ManageBrowser {
 
     public void selectBrowser(String browser){
         if (browser.equalsIgnoreCase("chrome")) {
-            WebDriverManager.chromedriver().setup();
+//            WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
         } else if (browser.equalsIgnoreCase("firefox")) {
-            WebDriverManager.firefoxdriver().setup();
+//            WebDriverManager.firefoxdriver().setup();
             driver = new FirefoxDriver();
         } else if (browser.equalsIgnoreCase("edge")) {
-            WebDriverManager.edgedriver().setup();
+//            WebDriverManager.edgedriver().setup();
             driver = new EdgeDriver();
         } else {
             System.out.println("Wrong browser name");
