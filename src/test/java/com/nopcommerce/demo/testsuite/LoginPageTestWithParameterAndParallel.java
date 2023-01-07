@@ -29,7 +29,7 @@ public class LoginPageTestWithParameterAndParallel extends Utility {
         homePage.clickOnLoginLink();
         String expectedText = "Welcome, Please Sign In!";
         String actualText = loginPage.getWelcomeText();
-        Assert.assertEquals(actualText, expectedText, "Login page not displayed");
+        Assert.assertEquals(actualText, expectedText, "Login page not display");
     }
 
     @AfterMethod
